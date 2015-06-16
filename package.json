@@ -5,7 +5,7 @@
     "maintainers": "nwbb <nwebb1@gmail.com>",
     "author": "Nick Webb <nwebb1@gmail.com>",
     "homepage": "https://github.com/nwbb/node-brightcove",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/nwbb/node-brightcove.git"
